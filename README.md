@@ -3,6 +3,7 @@ Patient Login info - Email Address : jacobmartin@gmail.com             
                      
 Admin Login info -  Email Address : johnsmith@gmail.com
                     Password : password
+                    
 Doctor Login info -  Email Address : peterparker@gmail.com
                       Password : password
                       

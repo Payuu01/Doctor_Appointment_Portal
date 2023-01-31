@@ -52,7 +52,7 @@ if(isset($_POST["admin_email_address"]))
 					{
 						$_SESSION['admin_id'] = $row['doctor_id'];
 						$_SESSION['type'] = 'Doctor';
-						$url = $object->base_url . 'admin/doctor_schedule.php';
+						$url = $object->base_url . 'doctor_schedule.php';
 					}
 					else
 					{
@@ -74,7 +74,7 @@ if(isset($_POST["admin_email_address"]))
 			{
 				$_SESSION['admin_id'] = $row['admin_id'];
 				$_SESSION['type'] = 'Admin';
-				$url = $object->base_url . 'admin/dashboard.php';
+				$url = $object->base_url . 'dashboard.php';
 			}
 			else
 			{

@@ -97,19 +97,19 @@ CREATE TABLE `doctor_schedule_table` (
 --
 
 INSERT INTO `doctor_schedule_table` (`doctor_schedule_id`, `doctor_id`, `doctor_schedule_date`, `doctor_schedule_day`, `doctor_schedule_start_time`, `doctor_schedule_end_time`, `average_consulting_time`, `doctor_schedule_status`) VALUES
-(2, 1, '2021-02-19', 'Friday', '09:00', '14:00', 15, 'Active'),
-(3, 2, '2021-02-19', 'Friday', '09:00', '12:00', 15, 'Active'),
-(4, 5, '2021-02-19', 'Friday', '10:00', '14:00', 10, 'Active'),
-(5, 3, '2021-02-19', 'Friday', '13:00', '17:00', 20, 'Active'),
-(6, 4, '2021-02-19', 'Friday', '15:00', '18:00', 5, 'Active'),
-(7, 5, '2021-02-22', 'Monday', '18:00', '20:00', 10, 'Active'),
-(8, 2, '2021-02-24', 'Wednesday', '09:30', '12:30', 10, 'Active'),
-(9, 5, '2021-02-24', 'Wednesday', '11:00', '15:00', 10, 'Active'),
-(10, 1, '2021-02-24', 'Wednesday', '12:00', '15:00', 10, 'Active'),
-(11, 3, '2021-02-24', 'Wednesday', '14:00', '17:00', 15, 'Active'),
-(12, 4, '2021-02-24', 'Wednesday', '16:00', '20:00', 10, 'Active'),
-(13, 6, '2021-02-24', 'Wednesday', '15:30', '18:30', 10, 'Active'),
-(14, 6, '2021-02-25', 'Thursday', '10:00', '13:30', 10, 'Active');
+(2, 1, '2023-02-19', 'Friday', '09:00', '14:00', 15, 'Active'),
+(3, 2, '2023-02-19', 'Friday', '09:00', '12:00', 15, 'Active'),
+(4, 5, '2023-02-19', 'Friday', '10:00', '14:00', 10, 'Active'),
+(5, 3, '2023-02-19', 'Friday', '13:00', '17:00', 20, 'Active'),
+(6, 4, '2023-02-19', 'Friday', '15:00', '18:00', 5, 'Active'),
+(7, 5, '2023-02-22', 'Monday', '18:00', '20:00', 10, 'Active'),
+(8, 2, '2023-02-24', 'Wednesday', '09:30', '12:30', 10, 'Active'),
+(9, 5, '2023-02-24', 'Wednesday', '11:00', '15:00', 10, 'Active'),
+(10, 1, '2023-02-24', 'Wednesday', '12:00', '15:00', 10, 'Active'),
+(11, 3, '2023-02-24', 'Wednesday', '14:00', '17:00', 15, 'Active'),
+(12, 4, '2023-02-24', 'Wednesday', '16:00', '20:00', 10, 'Active'),
+(13, 6, '2023-02-24', 'Wednesday', '15:30', '18:30', 10, 'Active'),
+(14, 6, '2023-02-25', 'Thursday', '10:00', '13:30', 10, 'Active');
 
 -- --------------------------------------------------------
 

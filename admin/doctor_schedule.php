@@ -8,7 +8,7 @@ $object = new Appointment;
 
 if(!$object->is_login())
 {
-    header("location:".$object->base_url."admin");
+    header("location:".$object->base_url."");
 }
 
 include('header.php');

@@ -7,7 +7,7 @@ $object = new Appointment;
 
 if($object->is_login())
 {
-    header("location:".$object->base_url."admin/dashboard.php");
+    header("location:".$object->base_url."");
 }
 
 
